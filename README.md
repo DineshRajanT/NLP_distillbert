@@ -1,2 +1,2 @@
-# NLP_distillbert
+# DistilBert_NLP
 A Bert based model for NLP problem
